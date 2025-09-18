@@ -1,0 +1,6 @@
+#ignore files related to vs
+.vs
+
+#ignore bin and obj files
+bin
+obj
