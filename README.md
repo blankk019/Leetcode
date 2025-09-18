@@ -90,8 +90,13 @@ This repo is mainly for my personal learning, but suggestions and optimizations 
 Feel free to open a PR or issue.
 
 📬 Contact
-GitHub: your-username
+GitHub: blank019
 
-LinkedIn: your-linkedin
+LinkedIn: https://www.linkedin.com/in/ahmed-mamdouh04/
+
+
+FOR STUDY MATERIAL PLEASE REFER TO THIS LINK:
+
+[https://www.linkedin.com/in/ahmed-mamdouh04/](https://gelatinous-beard-5f7.notion.site/272410aa752380598b87cfbead37d1a1?v=272410aa752381809714000cdfa6afb2)
 
 ✨ “DSA is not about memorizing algorithms, but about learning problem-solving patterns.”
